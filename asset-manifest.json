@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/chicken-empire/static/css/main.0aae28cb.css",
-    "main.js": "/chicken-empire/static/js/main.20d0fc99.js",
+    "main.js": "/chicken-empire/static/js/main.bf995209.js",
     "static/js/453.4fed7cdc.chunk.js": "/chicken-empire/static/js/453.4fed7cdc.chunk.js",
     "index.html": "/chicken-empire/index.html",
     "main.0aae28cb.css.map": "/chicken-empire/static/css/main.0aae28cb.css.map",
-    "main.20d0fc99.js.map": "/chicken-empire/static/js/main.20d0fc99.js.map",
+    "main.bf995209.js.map": "/chicken-empire/static/js/main.bf995209.js.map",
     "453.4fed7cdc.chunk.js.map": "/chicken-empire/static/js/453.4fed7cdc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0aae28cb.css",
-    "static/js/main.20d0fc99.js"
+    "static/js/main.bf995209.js"
   ]
 }
