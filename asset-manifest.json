@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/chicken-empire/static/css/main.7c2a26e1.css",
-    "main.js": "/chicken-empire/static/js/main.97c4828b.js",
+    "main.js": "/chicken-empire/static/js/main.101cec89.js",
     "static/js/453.4fed7cdc.chunk.js": "/chicken-empire/static/js/453.4fed7cdc.chunk.js",
     "static/media/alan-sans-latin-400-normal.woff": "/chicken-empire/static/media/alan-sans-latin-400-normal.2584b972c11304e8903f.woff",
     "static/media/alan-sans-latin-700-normal.woff": "/chicken-empire/static/media/alan-sans-latin-700-normal.d49d6f7f53924c235ddf.woff",
@@ -13,11 +13,11 @@
     "static/media/alan-sans-latin-ext-400-normal.woff2": "/chicken-empire/static/media/alan-sans-latin-ext-400-normal.98578c0552071c394b24.woff2",
     "index.html": "/chicken-empire/index.html",
     "main.7c2a26e1.css.map": "/chicken-empire/static/css/main.7c2a26e1.css.map",
-    "main.97c4828b.js.map": "/chicken-empire/static/js/main.97c4828b.js.map",
+    "main.101cec89.js.map": "/chicken-empire/static/js/main.101cec89.js.map",
     "453.4fed7cdc.chunk.js.map": "/chicken-empire/static/js/453.4fed7cdc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c2a26e1.css",
-    "static/js/main.97c4828b.js"
+    "static/js/main.101cec89.js"
   ]
 }
